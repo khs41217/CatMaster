@@ -128,7 +128,6 @@ public class MainService {
 	}
 
 	public String updatebasket(String id, String type, int idx){
-	
 	Map<String, Object> info = new HashMap<>();
 	info.put("id", id);
 	info.put("idx", idx);

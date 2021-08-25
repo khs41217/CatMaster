@@ -6,7 +6,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Insert title here</title>
-	    <link rel="stylesheet" href="view/common/header/header.css?a">
+	    <link rel="stylesheet" href="view/common/header/header.css">
 	    <script src="view/common/header/header.js"></script>
 	</head>
 	<body style="overflow-x: hidden;">

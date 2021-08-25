@@ -145,7 +145,7 @@
 	<body>
 		
 		<div id="outermost_box">
-			<jsp:include page="./header.jsp"></jsp:include>
+			<jsp:include page="header.jsp"></jsp:include>
 		
 			<div>
 		        <div class="a2038"></div>
